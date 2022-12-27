@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\mrpri\source\repos\LastChance\LastChance\Source.cpp(72,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\mrpri\source\repos\LastChance\LastChance\Source.cpp(76,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\mrpri\source\repos\LastChance\LastChance\Source.cpp(80,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\mrpri\source\repos\LastChance\LastChance\Source.cpp(84,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\mrpri\source\repos\LastChance\LastChance\Source.cpp(118,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrpri\source\repos\LastChance\LastChance\Source.cpp(118,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  LastChance.vcxproj -> C:\Users\mrpri\source\repos\LastChance\x64\Debug\LastChance.exe
